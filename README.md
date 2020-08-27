@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##You have to update the keys
+## You have to update the keys
 First generate a key and add it to keys.js by following the below link
 https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key
 
